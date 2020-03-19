@@ -1,0 +1,1 @@
+msiexec.exe /i "C:\Windows\Sonicwall_Temp\sma02 download.msi"
